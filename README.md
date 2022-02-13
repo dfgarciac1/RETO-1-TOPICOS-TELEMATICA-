@@ -8,6 +8,9 @@ el cual recibe por parámetro la url del sitio al cual se desea obtener su HTML 
   ## MANERA DE COMO SE ENVÍA LA URL 
  - [ ] **ws:///localhost:PORT** (CONEXIÓN)
  - [ ] **ws:///localhost:PORT/html** (PETICIONES)
+
+
+
 ![](https://i.imgur.com/ywUOhOf.png)
 
 ## REQUISITOS
@@ -15,7 +18,10 @@ el cual recibe por parámetro la url del sitio al cual se desea obtener su HTML 
  1. Primeramente tener instalado Go en caso que no se tenga dentro de los archivos esta el   programa compilado el cual se podrá ejecutar de la siguiente manera 
 
 **EN CASO DE ESTAR EN LINUX**
+
+
 ![](https://i.imgur.com/680oP3V.png)
+
 
 **EN CASO DE ESTAR EN WINDOWS O MAC**
 ![](https://i.imgur.com/u3F9uiq.png)
