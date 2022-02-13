@@ -19,6 +19,10 @@ el cual recibe por parámetro la url del sitio al cual se desea obtener su HTML 
 
 **EN CASO DE ESTAR EN LINUX**
 
+ 2. Como ejemplo para enviar la url esta se envia con el port de esta misma donde se dara la conexión por TCP 
+ 
+ webcode.me:80
+
 
 ![](https://i.imgur.com/680oP3V.png)
 
