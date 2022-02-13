@@ -24,6 +24,8 @@ el cual recibe por parámetro la url del sitio al cual se desea obtener su HTML 
 
 
 **EN CASO DE ESTAR EN WINDOWS O MAC**
+
+
 ![](https://i.imgur.com/u3F9uiq.png)
 
 ## FUNCIONAMIENTO
